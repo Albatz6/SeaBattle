@@ -1,0 +1,4 @@
+﻿  Core.cpp
+D:\Разработка\Visual Studio\SeaBattle\SeaBattle\Core.cpp(640,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Разработка\Visual Studio\SeaBattle\SeaBattle\Core.cpp(938,35): warning C4018: <: несоответствие типов со знаком и без знака
+  SeaBattle.vcxproj -> D:\Разработка\Visual Studio\SeaBattle\Debug\SeaBattle.exe
